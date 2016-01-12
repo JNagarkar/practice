@@ -1,0 +1,68 @@
+
+	
+public class elementwhosesumisclosesttozero extends mergesort {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		int[] arr={10, 60, -10, 70, -80, 85};
+		
+		elementwhosesumisclosesttozero ele=new elementwhosesumisclosesttozero();
+		ele.sort(arr);
+		
+		System.out.println("Final Merged sorted list");	
+		for(int i: arr){
+			System.out.println(i+" ");
+					}
+
+		
+		int minimum=Integer.MAX_VALUE;
+
+		
+		int left=0;
+		int right=arr.length-1;
+
+		while(left < right){
+			
+			
+			int sum=arr[left]+arr[right];
+		if(Math.abs(sum) < Math.abs(minimum)){
+
+			minimum=Math.abs(sum);
+			}
+		if(sum >= 0){/*
+			 that means you need to come closer to zero. reduce the element which is 
+			causing the divergence from zero. Here, evidently , the higher element will
+			cause divergence from zero so we reduce it*/
+	
+			right--;
+			
+		}
+		else{
+			left++;
+		}	
+		}
+		
+		System.out.println("The final elements are :"+arr[left]+" and "+arr[right]);
+		
+		
+		
+		
+		
+		
+			
+			
+			
+			
+		}
+		
+		
+		
+		
+		
+	}
+
+
