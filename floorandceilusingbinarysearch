@@ -1,0 +1,153 @@
+/*http://www.geeksforgeeks.org/search-floor-and-ceil-in-a-sorted-array/
+*/
+
+
+public class floorandceilusingbinarysearch {
+
+	static int difference=Integer.MAX_VALUE;	
+	
+	/**
+	 * @param args
+	 */
+	
+	public static int ceilbinarysearch(int arr[],int low,int high,int elementtobesearched){
+		
+	
+		int x=elementtobesearched;
+		if(x < arr[low]){
+			return low;
+		}
+		if(x > arr[high]){
+			return -1;
+		}
+		
+		if(high >=low){
+			
+			int mid=low + (high-low)/2 ;
+		//	int mid=(high+low)/2;
+			System.out.println(arr[mid]);
+			   if ( arr[mid]==x)
+		        	   return mid;
+		       else if (x > arr[mid]){
+		           if(arr[mid+1]>=x){
+		        	   return mid+1;
+		           }
+		           else{
+			    	   return ceilbinarysearch(arr, (mid + 1), high, x);
+		        	   		           }
+		       }
+		       else{
+		    	   if(x > arr[mid-1]){
+		    		   return mid;
+		    	   }
+		    	   else{
+		           return ceilbinarysearch(arr, low, (mid -1), x);
+		    	   }
+		       }
+			   }
+			return -1;}
+
+	
+	
+	
+	
+	public void ceilfunction(int[] arr, int tosearch){
+		
+		int difference=Integer.MAX_VALUE;
+
+
+
+	int mid=ceilbinarysearch(arr, 0, arr.length-1, tosearch);		
+	if(mid==-1){
+		
+		System.out.println("element does not exists");
+	}
+
+	else{
+	System.out.println(""+tosearch+" is at "+(mid+1)+"th location and element is :"+arr[mid]);
+	}
+		
+		
+	}
+	
+	
+
+public void floorfunction(int[] arr, int tosearch){
+		
+
+
+
+	int mid=floorbinarysearch(arr, 0, arr.length-1, tosearch);		
+	if(mid==-1){
+		
+		System.out.println("element does not exists");
+	}
+
+	else{
+	System.out.println(""+tosearch+" is at "+(mid+1)+"th location and element is :"+arr[mid]);
+	}
+		
+		
+	}
+
+	
+	
+
+	
+	
+	
+	public static int floorbinarysearch(int arr[],int low,int high,int elementtobesearched){
+		
+		
+		int x=elementtobesearched;
+		if(x < arr[low]){
+			return -1;
+		}
+		if(x > arr[high]){
+			return high;
+		}
+		
+		if(high >=low){
+			
+			int mid=low + (high-low)/2 ;
+		//	int mid=(high+low)/2;
+			System.out.println(arr[mid]);
+			   if ( arr[mid]==x)
+		        	   return mid;
+		       else if (x > arr[mid]){
+		           if(arr[mid+1]>=x){
+		        	   return mid;
+		           }
+		           else{
+			    	   return floorbinarysearch(arr, (mid + 1), high, x);
+		        	   		           }
+		       }
+		       else{
+		    	   if(x > arr[mid-1]){
+		    		   return mid-1;
+		    	   }
+		    	   else{
+		           return floorbinarysearch(arr, low, (mid -1), x);
+		    	   }
+		       }
+			   }
+			return -1;}
+
+	
+	
+	
+	
+	
+	
+	
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		int arr[]={1, 2, 5, 7, 9, 13, 19,23,34,45,56,67,78,89,91};
+		floorandceilusingbinarysearch fs=new floorandceilusingbinarysearch();
+		int tosearch=-900;
+		fs.ceilfunction(arr,tosearch);
+		fs.floorfunction(arr, tosearch);
+	}
+
+}
