@@ -1,4 +1,3 @@
-# programming-challenges
+# practice
 
-
-currently focused on geeksforgeeks.org
+geeksforgeeks.org
