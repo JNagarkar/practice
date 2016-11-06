@@ -1,4 +1,4 @@
-package designPattern.MultipleInheritance;
+package src.designPattern.MultipleInheritance;
 import java.io.ObjectOutputStream;
 
 import static java.lang.System.out;

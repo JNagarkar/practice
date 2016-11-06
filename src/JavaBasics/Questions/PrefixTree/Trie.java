@@ -1,4 +1,4 @@
-package JavaBasics.Questions.PrefixTree;
+package src.JavaBasics.Questions.PrefixTree;
 
 import com.sun.org.apache.xpath.internal.SourceTree;
 

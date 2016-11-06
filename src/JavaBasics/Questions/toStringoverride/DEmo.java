@@ -1,4 +1,4 @@
-package JavaBasics.Questions.toStringoverride;
+package src.JavaBasics.Questions.toStringoverride;
 
 /**
  * Created by jaydatta on 9/19/16.

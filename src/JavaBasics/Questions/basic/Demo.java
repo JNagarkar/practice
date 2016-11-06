@@ -1,4 +1,4 @@
-package JavaBasics.Questions.basic;
+package src.JavaBasics.Questions.basic;
 
 /**
  * Created by jaydatta on 9/18/16.

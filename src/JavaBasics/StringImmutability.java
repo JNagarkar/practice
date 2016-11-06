@@ -1,4 +1,4 @@
-package JavaBasics;
+package src.JavaBasics;
 import java.util.*;
 /**
  * Created by jaydatta on 8/24/16.

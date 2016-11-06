@@ -1,4 +1,4 @@
-package interviewBit.MaximumNumber;
+package src.interviewBit.MaximumNumber;
 
 import java.util.Comparator;
 

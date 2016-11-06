@@ -1,4 +1,4 @@
-package designPattern.AbstractFactory.Size;
+package src.designPattern.AbstractFactory.Size;
 
 /**
  * Created by jaydatta on 8/23/16.

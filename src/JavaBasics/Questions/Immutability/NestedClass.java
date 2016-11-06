@@ -1,4 +1,4 @@
-package JavaBasics.Questions.Immutability;
+package src.JavaBasics.Questions.Immutability;
 
 /**
  * Created by jaydatta on 9/24/16.

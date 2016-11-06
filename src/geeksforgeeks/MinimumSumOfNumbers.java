@@ -1,4 +1,4 @@
-package geeksforgeeks;
+package src.geeksforgeeks;
 import geeksforgeeks.mergersort;
 /**
  * Created by jaydatta on 9/8/16.

@@ -1,4 +1,4 @@
-package designPattern.FactoryPattern;
+package src.designPattern.FactoryPattern;
 
 /**
  * Created by jaydatta on 8/23/16.

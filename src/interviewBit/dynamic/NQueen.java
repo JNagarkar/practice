@@ -1,4 +1,4 @@
-package interviewBit.dynamic;
+package src.interviewBit.dynamic;
 import java.io.*;
 import java.util.*;
 

@@ -1,4 +1,4 @@
-package JavaBasics.Questions.PrefixTree;
+package src.JavaBasics.Questions.PrefixTree;
 
 import java.util.HashMap;
 

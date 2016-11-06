@@ -1,4 +1,4 @@
-package JavaBasics.Questions.AccessPrivate;
+package src.JavaBasics.Questions.AccessPrivate;
 
 /**
  * Created by jaydatta on 9/19/16.

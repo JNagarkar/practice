@@ -1,4 +1,4 @@
-package JavaBasics.Questions.Serialization;
+package src.JavaBasics.Questions.Serialization;
 
 /**
  * Created by jaydatta on 9/19/16.

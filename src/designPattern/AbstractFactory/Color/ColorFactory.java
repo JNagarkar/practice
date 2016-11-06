@@ -1,4 +1,4 @@
-package designPattern.AbstractFactory.Color;
+package src.designPattern.AbstractFactory.Color;
 
 import designPattern.AbstractFactory.AbstractFactory;
 import designPattern.AbstractFactory.Shape.Shape;

@@ -1,4 +1,4 @@
-package designPattern.AbstractFactory.Color;
+package src.designPattern.AbstractFactory.Color;
 
 /**
  * Created by jaydatta on 8/23/16.

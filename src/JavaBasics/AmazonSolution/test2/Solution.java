@@ -1,4 +1,4 @@
-package JavaBasics.AmazonSolution.test2;
+package src.JavaBasics.AmazonSolution.test2;
 
 /**
  * Created by jaydatta on 9/26/16.

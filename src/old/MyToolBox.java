@@ -1,5 +1,5 @@
 
-public class mytoolbox {
+public class MyToolBox {
 
 	int[] array;
 	int[] temporaryarray;

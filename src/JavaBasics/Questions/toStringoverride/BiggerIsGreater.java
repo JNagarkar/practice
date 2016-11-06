@@ -1,4 +1,4 @@
-package JavaBasics.Questions.toStringoverride;
+package src.JavaBasics.Questions.toStringoverride;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package JavaBasics.godaddy;
+package src.JavaBasics.godaddy;
 
 public class Employee {
     String name;

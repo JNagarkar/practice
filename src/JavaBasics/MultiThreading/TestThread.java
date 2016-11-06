@@ -1,4 +1,4 @@
-package JavaBasics.MultiThreading;
+package src.JavaBasics.MultiThreading;
 
 /**
  * Created by jaydatta on 8/24/16.

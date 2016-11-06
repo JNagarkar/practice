@@ -1,4 +1,4 @@
-package geeksforgeeks.Tree;
+package src.geeksforgeeks.Tree;
 
 /**
  * Created by jaydatta on 9/23/16.

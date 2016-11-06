@@ -1,4 +1,4 @@
-package interviewBit.dynamic;
+package src.interviewBit.dynamic;
 
 /**
  * Created by jaydatta on 10/30/16.

@@ -1,4 +1,4 @@
-package JavaBasics.Questions;
+package src.JavaBasics.Questions;
 
 import java.util.Arrays;
 import java.util.Collections;

@@ -1,4 +1,4 @@
-package interviewBit.dynamic;
+package src.interviewBit.dynamic;
 
 import java.util.LinkedList;
 import java.util.Queue;

@@ -1,4 +1,4 @@
-package JavaBasics.Abstraction;
+package src.JavaBasics.Abstraction;
 
 
 /**

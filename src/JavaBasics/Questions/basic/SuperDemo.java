@@ -1,4 +1,4 @@
-package JavaBasics.Questions.basic;
+package src.JavaBasics.Questions.basic;
 
 import java.io.UncheckedIOException;
 

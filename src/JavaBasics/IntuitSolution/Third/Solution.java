@@ -1,4 +1,4 @@
-package JavaBasics.IntuitSolution.Third;
+package src.JavaBasics.IntuitSolution.Third;
 
 import java.io.BufferedReader;
 import java.io.FileReader;

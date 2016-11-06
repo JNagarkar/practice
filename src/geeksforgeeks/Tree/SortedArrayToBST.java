@@ -1,4 +1,4 @@
-package geeksforgeeks.Tree;
+package src.geeksforgeeks.Tree;
 import geeksforgeeks.Tree.Node;
 import geeksforgeeks.Tree.BinaryTree;
 

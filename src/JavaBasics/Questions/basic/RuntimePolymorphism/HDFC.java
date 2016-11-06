@@ -1,4 +1,4 @@
-package JavaBasics.Questions.basic.RuntimePolymorphism;
+package src.JavaBasics.Questions.basic.RuntimePolymorphism;
 
 /**
  * Created by jaydatta on 9/18/16.

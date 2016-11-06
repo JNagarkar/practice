@@ -1,4 +1,4 @@
-package JavaBasics.Questions.AccessPrivate;
+package src.JavaBasics.Questions.AccessPrivate;
 
 import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;

@@ -1,4 +1,4 @@
-package geeksforgeeks;
+package src.geeksforgeeks;
 
 /**
  * Created by jaydatta on 9/6/16.

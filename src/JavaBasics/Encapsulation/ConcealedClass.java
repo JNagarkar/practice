@@ -1,4 +1,4 @@
-package JavaBasics.Encapsulation;
+package src.JavaBasics.Encapsulation;
 
 /**
  * Created by jaydatta on 8/24/16.

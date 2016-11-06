@@ -1,4 +1,4 @@
-package JavaBasics.SuperKeyword;
+package src.JavaBasics.SuperKeyword;
 
 /**
  * Created by jaydatta on 8/24/16.

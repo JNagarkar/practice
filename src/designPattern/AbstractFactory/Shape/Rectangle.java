@@ -1,4 +1,4 @@
-package designPattern.AbstractFactory.Shape;
+package src.designPattern.AbstractFactory.Shape;
 
 
 /**

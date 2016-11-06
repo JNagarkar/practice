@@ -1,4 +1,4 @@
-    package designPattern.singleton;
+    package src.designPattern.singleton;
 
 import JavaBasics.Encapsulation.ConcealedClass;
 

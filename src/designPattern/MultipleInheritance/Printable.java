@@ -1,4 +1,4 @@
-package designPattern.MultipleInheritance;
+package src.designPattern.MultipleInheritance;
 
 /**
  * Created by jaydatta on 9/18/16.

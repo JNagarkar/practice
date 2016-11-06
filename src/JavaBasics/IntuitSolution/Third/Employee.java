@@ -1,4 +1,4 @@
-package JavaBasics.IntuitSolution.Third;
+package src.JavaBasics.IntuitSolution.Third;
 
 import java.util.ArrayList;
 import java.util.List;

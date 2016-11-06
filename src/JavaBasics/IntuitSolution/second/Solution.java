@@ -1,4 +1,4 @@
-package JavaBasics.IntuitSolution.second;
+package src.JavaBasics.IntuitSolution.second;
 
 /**
  * Created by jaydatta on 9/28/16.

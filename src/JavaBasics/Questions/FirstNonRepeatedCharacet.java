@@ -1,4 +1,4 @@
-package JavaBasics.Questions;
+package src.JavaBasics.Questions;
 
 import java.util.ArrayList;
 import java.util.HashMap;

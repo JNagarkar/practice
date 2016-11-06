@@ -1,4 +1,4 @@
-package JavaBasics.Questions.Serialization;
+package src.JavaBasics.Questions.Serialization;
 import java.io.*;
 
 

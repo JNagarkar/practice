@@ -1,4 +1,4 @@
-package JavaBasics.CollectionFramework;
+package src.JavaBasics.CollectionFramework;
 
 /**
  * Created by jaydatta on 8/24/16.

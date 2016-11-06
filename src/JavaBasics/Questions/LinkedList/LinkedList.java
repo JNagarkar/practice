@@ -1,4 +1,4 @@
-package JavaBasics.Questions.LinkedList;
+package src.JavaBasics.Questions.LinkedList;
 
 /**
  * Created by jaydatta on 9/25/16.

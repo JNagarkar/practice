@@ -1,4 +1,4 @@
-package geeksforgeeks.Tree;
+package src.geeksforgeeks.Tree;
 
 import java.util.LinkedHashSet;
 

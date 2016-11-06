@@ -1,4 +1,4 @@
-package JavaBasics.Questions;
+package src.JavaBasics.Questions;
 
 import JavaBasics.IntuitSolution.Employee;
 

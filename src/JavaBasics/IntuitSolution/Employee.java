@@ -1,4 +1,4 @@
-package JavaBasics.IntuitSolution;
+package src.JavaBasics.IntuitSolution;
 
 import java.util.ArrayList;
 import java.util.List;

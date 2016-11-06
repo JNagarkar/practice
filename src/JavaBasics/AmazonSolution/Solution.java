@@ -1,4 +1,4 @@
-package JavaBasics.AmazonSolution;
+package src.JavaBasics.AmazonSolution;
 
 import java.util.Map;
 import java.util.*;

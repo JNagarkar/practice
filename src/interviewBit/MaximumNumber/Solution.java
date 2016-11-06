@@ -1,4 +1,4 @@
-package interviewBit.MaximumNumber;
+package src.interviewBit.MaximumNumber;
 
 import JavaBasics.Questions.basic.Demo;
 

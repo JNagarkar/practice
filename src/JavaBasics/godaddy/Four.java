@@ -1,4 +1,4 @@
-package JavaBasics.godaddy;
+package src.JavaBasics.godaddy;
 
 import java.util.ArrayList;
 import java.util.HashMap;
