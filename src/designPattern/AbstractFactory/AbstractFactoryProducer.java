@@ -1,8 +1,8 @@
 package src.designPattern.AbstractFactory;
 
-import designPattern.AbstractFactory.Color.ColorFactory;
-import designPattern.AbstractFactory.Shape.ShapeFactory;
-import designPattern.AbstractFactory.Size.SizeFactory;
+import src.designPattern.AbstractFactory.Color.ColorFactory;
+import src.designPattern.AbstractFactory.Shape.ShapeFactory;
+import src.designPattern.AbstractFactory.Size.SizeFactory;
 
 /**
  * Created by jaydatta on 8/23/16.

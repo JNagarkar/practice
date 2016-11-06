@@ -1,6 +1,6 @@
 package src.JavaBasics.Questions;
 
-import JavaBasics.IntuitSolution.Employee;
+import src.JavaBasics.IntuitSolution.Employee;
 
 import java.util.ArrayList;
 import java.util.Comparator;

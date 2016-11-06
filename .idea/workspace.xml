@@ -2,134 +2,44 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eeb8e441-40d8-4554-aee0-b9d9f2e8ddf3" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FindKMaximumElementsInArray.java" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/JavaBasics/Abstraction/AbstractionDemo.java" afterPath="$PROJECT_DIR$/src/JavaBasics/Abstraction/AbstractionDemo.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/JavaBasics/Abstraction/Employee.java" afterPath="$PROJECT_DIR$/src/JavaBasics/Abstraction/Employee.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/JavaBasics/Abstraction/Salary.java" afterPath="$PROJECT_DIR$/src/JavaBasics/Abstraction/Salary.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/JavaBasics/AmazonSolution/IncorrectItems.java" afterPath="$PROJECT_DIR$/src/JavaBasics/AmazonSolution/IncorrectItems.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/JavaBasics/AmazonSolution/PossibleDiscount.java" afterPath="$PROJECT_DIR$/src/JavaBasics/AmazonSolution/PossibleDiscount.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/JavaBasics/AmazonSolution/Solution.java" afterPath="$PROJECT_DIR$/src/JavaBasics/AmazonSolution/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/JavaBasics/AmazonSolution/test2/Solution.java" afterPath="$PROJECT_DIR$/src/JavaBasics/AmazonSolution/test2/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/JavaBasics/CollectionFramework/ArrayListDemo.java" afterPath="$PROJECT_DIR$/src/JavaBasics/CollectionFramework/ArrayListDemo.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/JavaBasics/CollectionFramework/ConcurrentHashMapDemo.java" afterPath="$PROJECT_DIR$/src/JavaBasics/CollectionFramework/ConcurrentHashMapDemo.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/JavaBasics/CollectionFramework/HashMapDemo.java" afterPath="$PROJECT_DIR$/src/JavaBasics/CollectionFramework/HashMapDemo.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/JavaBasics/CollectionFramework/HashSetDemo.java" afterPath="$PROJECT_DIR$/src/JavaBasics/CollectionFramework/HashSetDemo.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/JavaBasics/CollectionFramework/LinkedHashMapDemo.java" afterPath="$PROJECT_DIR$/src/JavaBasics/CollectionFramework/LinkedHashMapDemo.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/JavaBasics/CollectionFramework/LinkedHashSetDemo.java" afterPath="$PROJECT_DIR$/src/JavaBasics/CollectionFramework/LinkedHashSetDemo.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/JavaBasics/CollectionFramework/LinkedListDemo.java" afterPath="$PROJECT_DIR$/src/JavaBasics/CollectionFramework/LinkedListDemo.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/JavaBasics/CollectionFramework/MaximumValueKinArray.java" afterPath="$PROJECT_DIR$/src/JavaBasics/CollectionFramework/MaximumValueKinArray.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/JavaBasics/CollectionFramework/SubArrayZeroSum.java" afterPath="$PROJECT_DIR$/src/JavaBasics/CollectionFramework/SubArrayZeroSum.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/JavaBasics/CollectionFramework/TreeMapDemo.java" afterPath="$PROJECT_DIR$/src/JavaBasics/CollectionFramework/TreeMapDemo.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/JavaBasics/CollectionFramework/TreeSetDemo.java" afterPath="$PROJECT_DIR$/src/JavaBasics/CollectionFramework/TreeSetDemo.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/JavaBasics/CollectionFramework/convertToRoman.java" afterPath="$PROJECT_DIR$/src/JavaBasics/CollectionFramework/convertToRoman.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/JavaBasics/CollectionFramework/printingDemo.java" afterPath="$PROJECT_DIR$/src/JavaBasics/CollectionFramework/printingDemo.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/JavaBasics/CollectionFramework/printingJob.java" afterPath="$PROJECT_DIR$/src/JavaBasics/CollectionFramework/printingJob.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/JavaBasics/Encapsulation/ConcealedClass.java" afterPath="$PROJECT_DIR$/src/JavaBasics/Encapsulation/ConcealedClass.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/JavaBasics/Encapsulation/EncapsulationDemo.java" afterPath="$PROJECT_DIR$/src/JavaBasics/Encapsulation/EncapsulationDemo.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/JavaBasics/Intuit.java" afterPath="$PROJECT_DIR$/src/JavaBasics/Intuit.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/JavaBasics/IntuitSolution/ChangedInputSolution.java" afterPath="$PROJECT_DIR$/src/JavaBasics/IntuitSolution/ChangedInputSolution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/JavaBasics/IntuitSolution/Employee.java" afterPath="$PROJECT_DIR$/src/JavaBasics/IntuitSolution/Employee.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/JavaBasics/IntuitSolution/Solution.java" afterPath="$PROJECT_DIR$/src/JavaBasics/IntuitSolution/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/JavaBasics/IntuitSolution/Third/Employee.java" afterPath="$PROJECT_DIR$/src/JavaBasics/IntuitSolution/Third/Employee.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/JavaBasics/IntuitSolution/Third/Solution.java" afterPath="$PROJECT_DIR$/src/JavaBasics/IntuitSolution/Third/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/JavaBasics/IntuitSolution/second/Solution.java" afterPath="$PROJECT_DIR$/src/JavaBasics/IntuitSolution/second/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/JavaBasics/MultiThreading/RunnableDemo.java" afterPath="$PROJECT_DIR$/src/JavaBasics/MultiThreading/RunnableDemo.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/JavaBasics/MultiThreading/TestThread.java" afterPath="$PROJECT_DIR$/src/JavaBasics/MultiThreading/TestThread.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/old/EquilibriumIndexofArray.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/old/FindElementsWhoseMinimumSumIsCloseToZero" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/old/FindElementsWithOddOccurence.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/old/FindMissingElementsInSequence.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/old/FindPairWithGivenDifference.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/old/FixedPointInArray.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/old/LeadersInArray.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/old/MaxProductSubarray.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/old/MyToolBox.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/old/arrayrotation" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/old/binarysearch" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/old/checkifelementispresentinmajoritybinarysearchlogn" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/old/floorandceilusingbinarysearch" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/old/longestPossibleSubsequence.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/old/maxdifferencebetweentwoelements.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/old/maxminusingminimumcomparisons.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/old/mergesort.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/old/mergingoftwoarrays.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/old/mooresvoting.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/old/productarraypuzzle.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/old/reversearray.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/old/rotationwithrecursion.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/old/segregratexeroandones.java" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/JavaBasics/Questions/AccessPrivate/Accessor.java" afterPath="$PROJECT_DIR$/src/JavaBasics/Questions/AccessPrivate/Accessor.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/JavaBasics/Questions/AccessPrivate/BaseClass.java" afterPath="$PROJECT_DIR$/src/JavaBasics/Questions/AccessPrivate/BaseClass.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/JavaBasics/Questions/AlternateLinkedList.java" afterPath="$PROJECT_DIR$/src/JavaBasics/Questions/AlternateLinkedList.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/JavaBasics/Questions/BracesMatching.java" afterPath="$PROJECT_DIR$/src/JavaBasics/Questions/BracesMatching.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/JavaBasics/Questions/FirstNonRepeatedCharacet.java" afterPath="$PROJECT_DIR$/src/JavaBasics/Questions/FirstNonRepeatedCharacet.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/JavaBasics/Questions/Immutability/Demo.java" afterPath="$PROJECT_DIR$/src/JavaBasics/Questions/Immutability/Demo.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/JavaBasics/Questions/Immutability/Immutable.java" afterPath="$PROJECT_DIR$/src/JavaBasics/Questions/Immutability/Immutable.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/JavaBasics/Questions/Immutability/NestedClass.java" afterPath="$PROJECT_DIR$/src/JavaBasics/Questions/Immutability/NestedClass.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/JavaBasics/Questions/InPlaceMerge.java" afterPath="$PROJECT_DIR$/src/JavaBasics/Questions/InPlaceMerge.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/JavaBasics/Questions/LinkedList/LinkedList.java" afterPath="$PROJECT_DIR$/src/JavaBasics/Questions/LinkedList/LinkedList.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/JavaBasics/Questions/Merge2LinkedListWithoutChangingLink.java" afterPath="$PROJECT_DIR$/src/JavaBasics/Questions/Merge2LinkedListWithoutChangingLink.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/JavaBasics/Questions/MyMontyHall.java" afterPath="$PROJECT_DIR$/src/JavaBasics/Questions/MyMontyHall.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/JavaBasics/Questions/Node.java" afterPath="$PROJECT_DIR$/src/JavaBasics/Questions/Node.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/JavaBasics/Questions/PrefixTree/Trie.java" afterPath="$PROJECT_DIR$/src/JavaBasics/Questions/PrefixTree/Trie.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/JavaBasics/Questions/PrefixTree/TrieNode.java" afterPath="$PROJECT_DIR$/src/JavaBasics/Questions/PrefixTree/TrieNode.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/JavaBasics/Questions/RemoveCharacters.java" afterPath="$PROJECT_DIR$/src/JavaBasics/Questions/RemoveCharacters.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/JavaBasics/Questions/Serialization/Address.java" afterPath="$PROJECT_DIR$/src/JavaBasics/Questions/Serialization/Address.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/JavaBasics/Questions/Serialization/SerializationExample.java" afterPath="$PROJECT_DIR$/src/JavaBasics/Questions/Serialization/SerializationExample.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/JavaBasics/Questions/StringPermutations.java" afterPath="$PROJECT_DIR$/src/JavaBasics/Questions/StringPermutations.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/JavaBasics/Questions/basic/CopyConstructor.java" afterPath="$PROJECT_DIR$/src/JavaBasics/Questions/basic/CopyConstructor.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/JavaBasics/Questions/basic/Demo.java" afterPath="$PROJECT_DIR$/src/JavaBasics/Questions/basic/Demo.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/JavaBasics/Questions/basic/Outer.java" afterPath="$PROJECT_DIR$/src/JavaBasics/Questions/basic/Outer.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/JavaBasics/Questions/basic/RuntimePolymorphism/Bank.java" afterPath="$PROJECT_DIR$/src/JavaBasics/Questions/basic/RuntimePolymorphism/Bank.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/JavaBasics/Questions/basic/RuntimePolymorphism/HDFC.java" afterPath="$PROJECT_DIR$/src/JavaBasics/Questions/basic/RuntimePolymorphism/HDFC.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/JavaBasics/Questions/basic/RuntimePolymorphism/Interest.java" afterPath="$PROJECT_DIR$/src/JavaBasics/Questions/basic/RuntimePolymorphism/Interest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/JavaBasics/Questions/basic/RuntimePolymorphism/SBI.java" afterPath="$PROJECT_DIR$/src/JavaBasics/Questions/basic/RuntimePolymorphism/SBI.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/JavaBasics/Questions/basic/SuperDemo.java" afterPath="$PROJECT_DIR$/src/JavaBasics/Questions/basic/SuperDemo.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/JavaBasics/Questions/toStringoverride/BiggerIsGreater.java" afterPath="$PROJECT_DIR$/src/JavaBasics/Questions/toStringoverride/BiggerIsGreater.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/JavaBasics/Questions/toStringoverride/DEmo.java" afterPath="$PROJECT_DIR$/src/JavaBasics/Questions/toStringoverride/DEmo.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/JavaBasics/Questions/toStringoverride/ToStringOverride.java" afterPath="$PROJECT_DIR$/src/JavaBasics/Questions/toStringoverride/ToStringOverride.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/JavaBasics/StringImmutability.java" afterPath="$PROJECT_DIR$/src/JavaBasics/StringImmutability.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/JavaBasics/SuperKeyword/Car.java" afterPath="$PROJECT_DIR$/src/JavaBasics/SuperKeyword/Car.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/JavaBasics/SuperKeyword/Vehicle.java" afterPath="$PROJECT_DIR$/src/JavaBasics/SuperKeyword/Vehicle.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/JavaBasics/godaddy/Employee.java" afterPath="$PROJECT_DIR$/src/JavaBasics/godaddy/Employee.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/JavaBasics/godaddy/Four.java" afterPath="$PROJECT_DIR$/src/JavaBasics/godaddy/Four.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/JavaBasics/godaddy/Main.java" afterPath="$PROJECT_DIR$/src/JavaBasics/godaddy/Main.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/JavaBasics/godaddy/One.java" afterPath="$PROJECT_DIR$/src/JavaBasics/godaddy/One.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/JavaBasics/godaddy/ReArrangeWords.java" afterPath="$PROJECT_DIR$/src/JavaBasics/godaddy/ReArrangeWords.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/JavaBasics/godaddy/Solution.java" afterPath="$PROJECT_DIR$/src/JavaBasics/godaddy/Solution.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/JavaBasics/godaddy/Three.java" afterPath="$PROJECT_DIR$/src/JavaBasics/godaddy/Three.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/JavaBasics/godaddy/Two.java" afterPath="$PROJECT_DIR$/src/JavaBasics/godaddy/Two.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/designPattern/AbstractFactory/AbstractFactory.java" afterPath="$PROJECT_DIR$/src/designPattern/AbstractFactory/AbstractFactory.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/designPattern/AbstractFactory/AbstractFactoryDemo.java" afterPath="$PROJECT_DIR$/src/designPattern/AbstractFactory/AbstractFactoryDemo.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/designPattern/AbstractFactory/AbstractFactoryProducer.java" afterPath="$PROJECT_DIR$/src/designPattern/AbstractFactory/AbstractFactoryProducer.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/designPattern/AbstractFactory/Color/Blue.java" afterPath="$PROJECT_DIR$/src/designPattern/AbstractFactory/Color/Blue.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/designPattern/AbstractFactory/Color/Color.java" afterPath="$PROJECT_DIR$/src/designPattern/AbstractFactory/Color/Color.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/designPattern/AbstractFactory/Color/ColorFactory.java" afterPath="$PROJECT_DIR$/src/designPattern/AbstractFactory/Color/ColorFactory.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/designPattern/AbstractFactory/Color/Green.java" afterPath="$PROJECT_DIR$/src/designPattern/AbstractFactory/Color/Green.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/designPattern/AbstractFactory/Color/Red.java" afterPath="$PROJECT_DIR$/src/designPattern/AbstractFactory/Color/Red.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/designPattern/AbstractFactory/Shape/Circle.java" afterPath="$PROJECT_DIR$/src/designPattern/AbstractFactory/Shape/Circle.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/designPattern/AbstractFactory/Shape/Rectangle.java" afterPath="$PROJECT_DIR$/src/designPattern/AbstractFactory/Shape/Rectangle.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/designPattern/AbstractFactory/Shape/Shape.java" afterPath="$PROJECT_DIR$/src/designPattern/AbstractFactory/Shape/Shape.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/designPattern/AbstractFactory/Shape/ShapeFactory.java" afterPath="$PROJECT_DIR$/src/designPattern/AbstractFactory/Shape/ShapeFactory.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/designPattern/AbstractFactory/Shape/Square.java" afterPath="$PROJECT_DIR$/src/designPattern/AbstractFactory/Shape/Square.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/designPattern/AbstractFactory/Size/Large.java" afterPath="$PROJECT_DIR$/src/designPattern/AbstractFactory/Size/Large.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/designPattern/AbstractFactory/Size/Medium.java" afterPath="$PROJECT_DIR$/src/designPattern/AbstractFactory/Size/Medium.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/designPattern/AbstractFactory/Size/Size.java" afterPath="$PROJECT_DIR$/src/designPattern/AbstractFactory/Size/Size.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/designPattern/AbstractFactory/Size/SizeFactory.java" afterPath="$PROJECT_DIR$/src/designPattern/AbstractFactory/Size/SizeFactory.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/designPattern/AbstractFactory/Size/Small.java" afterPath="$PROJECT_DIR$/src/designPattern/AbstractFactory/Size/Small.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/designPattern/FactoryPattern/Circle.java" afterPath="$PROJECT_DIR$/src/designPattern/FactoryPattern/Circle.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/designPattern/FactoryPattern/FactoryPatternDemo.java" afterPath="$PROJECT_DIR$/src/designPattern/FactoryPattern/FactoryPatternDemo.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/designPattern/FactoryPattern/Rectangle.java" afterPath="$PROJECT_DIR$/src/designPattern/FactoryPattern/Rectangle.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/designPattern/FactoryPattern/Shape.java" afterPath="$PROJECT_DIR$/src/designPattern/FactoryPattern/Shape.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/designPattern/FactoryPattern/ShapeFactory.java" afterPath="$PROJECT_DIR$/src/designPattern/FactoryPattern/ShapeFactory.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/designPattern/FactoryPattern/Square.java" afterPath="$PROJECT_DIR$/src/designPattern/FactoryPattern/Square.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/designPattern/MultipleInheritance/ChildClass.java" afterPath="$PROJECT_DIR$/src/designPattern/MultipleInheritance/ChildClass.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/designPattern/MultipleInheritance/Printable.java" afterPath="$PROJECT_DIR$/src/designPattern/MultipleInheritance/Printable.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/designPattern/MultipleInheritance/Showable.java" afterPath="$PROJECT_DIR$/src/designPattern/MultipleInheritance/Showable.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/designPattern/singleton/concealedClass.java" afterPath="$PROJECT_DIR$/src/designPattern/singleton/concealedClass.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/designPattern/singleton/singletondemo.java" afterPath="$PROJECT_DIR$/src/designPattern/singleton/singletondemo.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/geeksforgeeks/FindMissingElementInSequence.java" afterPath="$PROJECT_DIR$/src/geeksforgeeks/FindMissingElementInSequence.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/geeksforgeeks/MaximumProductSubarray.java" afterPath="$PROJECT_DIR$/src/geeksforgeeks/MaximumProductSubarray.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/geeksforgeeks/MaximumSumOfRotations.java" afterPath="$PROJECT_DIR$/src/geeksforgeeks/MaximumSumOfRotations.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/geeksforgeeks/MergeStrings.java" afterPath="$PROJECT_DIR$/src/geeksforgeeks/MergeStrings.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/geeksforgeeks/MinimumSumOfNumbers.java" afterPath="$PROJECT_DIR$/src/geeksforgeeks/MinimumSumOfNumbers.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/geeksforgeeks/RemoveDuplicates.java" afterPath="$PROJECT_DIR$/src/geeksforgeeks/RemoveDuplicates.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/geeksforgeeks/Tree/BinaryTree.java" afterPath="$PROJECT_DIR$/src/geeksforgeeks/Tree/BinaryTree.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/geeksforgeeks/Tree/LeftMostRightMost.java" afterPath="$PROJECT_DIR$/src/geeksforgeeks/Tree/LeftMostRightMost.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/geeksforgeeks/Tree/NormalBSTtoBalancedBST.java" afterPath="$PROJECT_DIR$/src/geeksforgeeks/Tree/NormalBSTtoBalancedBST.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/geeksforgeeks/Tree/SortedArrayToBST.java" afterPath="$PROJECT_DIR$/src/geeksforgeeks/Tree/SortedArrayToBST.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/geeksforgeeks/Tree/TreeTraversal.java" afterPath="$PROJECT_DIR$/src/geeksforgeeks/Tree/TreeTraversal.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/geeksforgeeks/driver.java" afterPath="$PROJECT_DIR$/src/geeksforgeeks/driver.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/geeksforgeeks/mergersort.java" afterPath="$PROJECT_DIR$/src/geeksforgeeks/mergersort.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/geeksforgeeks/reverseArray.java" afterPath="$PROJECT_DIR$/src/geeksforgeeks/reverseArray.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/geeksforgeeks/useFullUtilities.java" afterPath="$PROJECT_DIR$/src/geeksforgeeks/useFullUtilities.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/interviewBit/MaxNonNegativeSubArray.java" afterPath="$PROJECT_DIR$/src/interviewBit/MaxNonNegativeSubArray.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/interviewBit/MaximumNumber/Demo.java" afterPath="$PROJECT_DIR$/src/interviewBit/MaximumNumber/Demo.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/interviewBit/MaximumNumber/Solution.java" afterPath="$PROJECT_DIR$/src/interviewBit/MaximumNumber/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/interviewBit/dynamic/AlternativePaths.java" afterPath="$PROJECT_DIR$/src/interviewBit/dynamic/AlternativePaths.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/interviewBit/dynamic/FrogJumps.java" afterPath="$PROJECT_DIR$/src/interviewBit/dynamic/FrogJumps.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/interviewBit/dynamic/MaxSumContigiousSubArray.java" afterPath="$PROJECT_DIR$/src/interviewBit/dynamic/MaxSumContigiousSubArray.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/interviewBit/dynamic/NQueen.java" afterPath="$PROJECT_DIR$/src/interviewBit/dynamic/NQueen.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/interviewBit/dynamic/Solution.java" afterPath="$PROJECT_DIR$/src/interviewBit/dynamic/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/interviewBit/xOR.java" afterPath="$PROJECT_DIR$/src/interviewBit/xOR.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/old/MyToolBox.java" afterPath="$PROJECT_DIR$/src/old/MyToolBox.java" />
     </list>
     <ignored path="practice.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -150,83 +60,37 @@
     <favorites_list name="practice" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="mergersort.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/geeksforgeeks/mergersort.java">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="AbstractFactoryDemo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/designPattern/AbstractFactory/AbstractFactoryDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="26" selection-start-line="0" selection-start-column="26" selection-end-line="0" selection-end-column="26" />
+            <state relative-caret-position="553">
+              <caret line="54" column="0" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AbstractFactory.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/designPattern/AbstractFactory/AbstractFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="36">
+              <caret line="2" column="49" selection-start-line="2" selection-start-column="49" selection-end-line="2" selection-end-column="49" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AbstractionDemo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/JavaBasics/Abstraction/AbstractionDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MaxNonNegativeSubArray.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/interviewBit/MaxNonNegativeSubArray.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="driver.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/geeksforgeeks/driver.java">
+      <file leaf-file-name="concealedClass.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/designPattern/singleton/concealedClass.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="reverseArray.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/geeksforgeeks/reverseArray.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="useFullUtilities.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/geeksforgeeks/useFullUtilities.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FindMissingElementInSequence.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/geeksforgeeks/FindMissingElementInSequence.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="18" column="32" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MaximumProductSubarray.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/geeksforgeeks/MaximumProductSubarray.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -250,13 +114,27 @@
         <option value="$PROJECT_DIR$/src/geeksforgeeks/MaximumSumOfRotations.java" />
         <option value="$PROJECT_DIR$/src/geeksforgeeks/MaximumProductSubarray.java" />
         <option value="$PROJECT_DIR$/src/geeksforgeeks/MergeStrings.java" />
-        <option value="$PROJECT_DIR$/src/geeksforgeeks/MinimumSumOfNumbers.java" />
         <option value="$PROJECT_DIR$/src/geeksforgeeks/RemoveDuplicates.java" />
         <option value="$PROJECT_DIR$/src/geeksforgeeks/driver.java" />
         <option value="$PROJECT_DIR$/src/geeksforgeeks/reverseArray.java" />
         <option value="$PROJECT_DIR$/src/geeksforgeeks/useFullUtilities.java" />
         <option value="$PROJECT_DIR$/src/JavaBasics/Abstraction/AbstractionDemo.java" />
         <option value="$PROJECT_DIR$/src/geeksforgeeks/FindMissingElementInSequence.java" />
+        <option value="$PROJECT_DIR$/src/geeksforgeeks/MinimumSumOfNumbers.java" />
+        <option value="$PROJECT_DIR$/src/geeksforgeeks/Tree/SortedArrayToBST.java" />
+        <option value="$PROJECT_DIR$/src/JavaBasics/godaddy/Three.java" />
+        <option value="$PROJECT_DIR$/src/JavaBasics/godaddy/Two.java" />
+        <option value="$PROJECT_DIR$/src/JavaBasics/Questions/AccessPrivate/Accessor.java" />
+        <option value="$PROJECT_DIR$/src/interviewBit/MaximumNumber/Solution.java" />
+        <option value="$PROJECT_DIR$/src/JavaBasics/Questions/RemoveCharacters.java" />
+        <option value="$PROJECT_DIR$/src/old/EquilibriumIndexofArray.java" />
+        <option value="$PROJECT_DIR$/src/designPattern/AbstractFactory/Color/ColorFactory.java" />
+        <option value="$PROJECT_DIR$/src/designPattern/AbstractFactory/Shape/ShapeFactory.java" />
+        <option value="$PROJECT_DIR$/src/designPattern/AbstractFactory/Size/SizeFactory.java" />
+        <option value="$PROJECT_DIR$/src/designPattern/AbstractFactory/AbstractFactoryDemo.java" />
+        <option value="$PROJECT_DIR$/src/designPattern/AbstractFactory/AbstractFactoryProducer.java" />
+        <option value="$PROJECT_DIR$/src/designPattern/AbstractFactory/AbstractFactory.java" />
+        <option value="$PROJECT_DIR$/src/designPattern/singleton/concealedClass.java" />
       </list>
     </option>
   </component>
@@ -298,7 +176,6 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -346,7 +223,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="interviewBit" />
+              <option name="myItemId" value="designPattern" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="singleton" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -364,12 +245,113 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="geeksforgeeks" />
+              <option name="myItemId" value="designPattern" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="practice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="practice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="designPattern" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AbstractFactory" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="practice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="practice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="designPattern" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AbstractFactory" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Size" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="practice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="practice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="designPattern" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AbstractFactory" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Shape" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="practice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="practice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="designPattern" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AbstractFactory" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Color" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -379,7 +361,47 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js-jscs-nodeInterpreter" value="$USER_HOME$/.nvm/versions/node/v6.7.0/bin/node" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.AbstractFactoryDemo">
+    <configuration default="false" name="MaximumSumOfRotations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="src.geeksforgeeks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="src.geeksforgeeks.MaximumSumOfRotations" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="practice" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="AbstractFactoryDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="src.designPattern.AbstractFactory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="src.designPattern.AbstractFactory.AbstractFactoryDemo" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="practice" />
+      <envs />
+      <method />
+    </configuration>
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
@@ -607,6 +629,7 @@
       <setting name="cmdLine" value="run-app" />
       <setting name="passParentEnv" value="true" />
       <setting name="launchBrowser" value="true" />
+      <setting name="depsClasspath" value="false" />
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <method />
     </configuration>
@@ -772,6 +795,12 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
@@ -787,6 +816,16 @@
     <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
       <method />
     </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Application.MaximumSumOfRotations" />
+      <item index="1" class="java.lang.String" itemvalue="Application.AbstractFactoryDemo" />
+    </list>
+    <recent_temporary>
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="Application.AbstractFactoryDemo" />
+        <item index="1" class="java.lang.String" itemvalue="Application.MaximumSumOfRotations" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -798,41 +837,46 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1478417187785</updated>
-      <workItem from="1478417191188" duration="531000" />
+      <workItem from="1478417191188" duration="2630000" />
+      <workItem from="1478421919278" duration="7000" />
+      <workItem from="1478448912897" duration="35000" />
+      <workItem from="1478457347570" duration="219000" />
+      <workItem from="1478457611929" duration="505000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="531000" />
+    <option name="totallyTimeSpent" value="3396000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="24" width="1301" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25737053" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24940239" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972136" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972136" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972136" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28924304" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24940239" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972136" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -852,64 +896,48 @@
     </breakpoint-manager>
     <watches-manager />
   </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/old/FindKMaximumElementsInArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/old/MyToolBox.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/geeksforgeeks/MaximumProductSubarray.java">
+    <entry file="file://$PROJECT_DIR$/src/designPattern/AbstractFactory/Color/ColorFactory.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/geeksforgeeks/MinimumSumOfNumbers.java">
+    <entry file="file://$PROJECT_DIR$/src/designPattern/AbstractFactory/Shape/ShapeFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="54">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/geeksforgeeks/driver.java">
+    <entry file="file://$PROJECT_DIR$/src/interviewBit/MaximumNumber/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="1404">
+          <caret line="82" column="0" selection-start-line="82" selection-start-column="0" selection-end-line="82" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/geeksforgeeks/reverseArray.java">
+    <entry file="file://$PROJECT_DIR$/src/JavaBasics/Questions/RemoveCharacters.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="54">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/geeksforgeeks/useFullUtilities.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/geeksforgeeks/RemoveDuplicates.java">
+    <entry file="file://$PROJECT_DIR$/src/JavaBasics/Questions/StringPermutations.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
@@ -917,19 +945,134 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/geeksforgeeks/MergeStrings.java">
+    <entry file="file://$PROJECT_DIR$/src/JavaBasics/godaddy/Three.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="54">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/geeksforgeeks/MaximumSumOfRotations.java">
+    <entry file="file://$PROJECT_DIR$/src/JavaBasics/godaddy/Two.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaBasics/Questions/AccessPrivate/Accessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/geeksforgeeks/Tree/SortedArrayToBST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="2" column="41" selection-start-line="2" selection-start-column="41" selection-end-line="2" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/designPattern/AbstractFactory/AbstractFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/designPattern/AbstractFactory/Color/ColorFactory.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="8" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/designPattern/AbstractFactory/Shape/ShapeFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interviewBit/MaximumNumber/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1404">
+          <caret line="82" column="0" selection-start-line="82" selection-start-column="0" selection-end-line="82" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaBasics/Questions/RemoveCharacters.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaBasics/Questions/StringPermutations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaBasics/godaddy/Three.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaBasics/godaddy/Two.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaBasics/Questions/AccessPrivate/Accessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/old/FindKMaximumElementsInArray.java" />
+    <entry file="file://$PROJECT_DIR$/src/old/MyToolBox.java" />
+    <entry file="file://$PROJECT_DIR$/src/geeksforgeeks/useFullUtilities.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/geeksforgeeks/RemoveDuplicates.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/geeksforgeeks/MergeStrings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -937,7 +1080,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="26" selection-start-line="0" selection-start-column="26" selection-end-line="0" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -945,7 +1087,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -953,15 +1094,205 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/geeksforgeeks/FindMissingElementInSequence.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="18" column="32" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
+        <state relative-caret-position="396">
+          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/geeksforgeeks/reverseArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/geeksforgeeks/driver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/geeksforgeeks/MaximumProductSubarray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/geeksforgeeks/MaximumSumOfRotations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/geeksforgeeks/MinimumSumOfNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="24" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/geeksforgeeks/Tree/SortedArrayToBST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="2" column="41" selection-start-line="2" selection-start-column="41" selection-end-line="2" selection-end-column="41" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaBasics/godaddy/Three.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaBasics/godaddy/Two.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaBasics/Questions/AccessPrivate/Accessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/old/EquilibriumIndexofArray.java" />
+    <entry file="file://$PROJECT_DIR$/src/designPattern/AbstractFactory/Color/ColorFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/designPattern/AbstractFactory/Size/SizeFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/designPattern/AbstractFactory/Color/Green.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/designPattern/AbstractFactory/Shape/ShapeFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/designPattern/AbstractFactory/Shape/Square.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/designPattern/AbstractFactory/Color/Color.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interviewBit/MaximumNumber/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="553">
+          <caret line="82" column="0" selection-start-line="82" selection-start-column="0" selection-end-line="82" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaBasics/Questions/RemoveCharacters.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaBasics/Questions/StringPermutations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/designPattern/AbstractFactory/Size/Small.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/designPattern/AbstractFactory/AbstractFactoryProducer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/designPattern/AbstractFactory/AbstractFactoryDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="553">
+          <caret line="54" column="0" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/designPattern/AbstractFactory/AbstractFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="49" selection-start-line="2" selection-start-column="49" selection-end-line="2" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/designPattern/singleton/concealedClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

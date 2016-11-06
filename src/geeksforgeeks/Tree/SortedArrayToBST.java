@@ -1,6 +1,6 @@
 package src.geeksforgeeks.Tree;
-import geeksforgeeks.Tree.Node;
-import geeksforgeeks.Tree.BinaryTree;
+import src.geeksforgeeks.Tree.Node;
+import src.geeksforgeeks.Tree.BinaryTree;
 
 /**
  * Created by jaydatta on 9/8/16.

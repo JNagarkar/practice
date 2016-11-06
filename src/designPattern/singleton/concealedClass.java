@@ -1,6 +1,6 @@
     package src.designPattern.singleton;
 
-import JavaBasics.Encapsulation.ConcealedClass;
+import src.JavaBasics.Encapsulation.ConcealedClass;
 
 import java.util.concurrent.atomic.AtomicLong;
 

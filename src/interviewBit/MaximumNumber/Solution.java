@@ -1,6 +1,6 @@
 package src.interviewBit.MaximumNumber;
 
-import JavaBasics.Questions.basic.Demo;
+import src.JavaBasics.Questions.basic.Demo;
 
 import java.util.ArrayList;
 import java.util.Collections;
@@ -72,7 +72,7 @@ class Solution{
 
     */
 
-        Collections.sort(arrList,new interviewBit.MaximumNumber.Demo());
+        Collections.sort(arrList,new src.interviewBit.MaximumNumber.Demo());
         StringBuffer sb = new StringBuffer();
         for(int i=0; i < arrList.size();i++){
             sb.append(arrList.get(i));

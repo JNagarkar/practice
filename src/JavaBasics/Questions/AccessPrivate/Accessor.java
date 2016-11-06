@@ -8,7 +8,7 @@ import java.lang.reflect.Method;
  */
 public class Accessor {
     public static void main(String[] args) throws IllegalAccessException, InstantiationException, NoSuchMethodException, InvocationTargetException {
-        Class baseInstance = JavaBasics.Questions.AccessPrivate.BaseClass.class;
+        Class baseInstance = src.JavaBasics.Questions.AccessPrivate.BaseClass.class;
 
         Object obj = baseInstance.newInstance();
 

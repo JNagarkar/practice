@@ -1,6 +1,6 @@
 package src.JavaBasics.godaddy;
 
-import JavaBasics.CollectionFramework.printingJob;
+import src.JavaBasics.CollectionFramework.printingJob;
 
 import java.util.HashMap;
 import java.util.Iterator;

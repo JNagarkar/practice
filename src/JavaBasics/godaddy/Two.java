@@ -1,6 +1,6 @@
 package src.JavaBasics.godaddy;
 
-import JavaBasics.CollectionFramework.printingJob;
+import src.JavaBasics.CollectionFramework.printingJob;
 
 /**
  * Created by jaydatta on 10/22/16.
